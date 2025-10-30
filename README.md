@@ -23,7 +23,7 @@
   </a>
 </p>
 <p align="left">
-<strong>VisiMark</strong> is an AR interface that supports landmark perception for <a href="https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/low-vision">people with low vision</a> by providing both overviews of space structures and in-situ landmark augmentations. 
+<strong>VisiMark</strong> is an AR interface that supports landmark perception for <a href="https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/low-vision">people with low vision</a> by providing both overviews of space structures and in-situ landmark augmentations. VisiMark includes two features: Signboard, an overview of hallway structures and upcoming landmarks at intersections, and In-situ Labels, world-anchored icons and texts to highlight the types and positions of landmarks in the physical environment.
 
 In this repo, we present our <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudyMaterials/Study%20Protocol.pdf">study protocol</a> (including research questions, data collection, tools, procedure and experiment design), <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudyMaterials/Study%20Scripts%20for%20the%20Evaluation.pdf">study scripts for the evaluation</a>, <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudyMaterials/Consent%20Form.pdf">consent form</a> for participants, and our qualitative analysis results - <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudyMaterials/Themes%20and%20Codebook.pdf">our codebook with themes</a>. 
 
