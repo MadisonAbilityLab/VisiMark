@@ -13,7 +13,7 @@
     <br>
   </p>
   <h2 align="center">CHI 2025</h2>
-  <h3 align="center"><a href="https://dl.acm.org/doi/10.1145/3706598.3713847">Paper </a> | <a href="https://github.com/MadisonAbilityLab/VisiMark">Study Materials</a> | <a href="https://github.com/MadisonAbilityLab/VisiMark/MRFrontend">Code </a> | <a href="https://github.com/MadisonAbilityLab/VisiMark?tab=readme-ov-file#citation">Citation </a> </h3>
+  <h3 align="center"><a href="https://dl.acm.org/doi/10.1145/3706598.3713847">Paper </a> | <a href="https://github.com/MadisonAbilityLab/VisiMark">Study Materials</a> | <a href="https://github.com/MadisonAbilityLab/VisiMark/tree/main/MRFrontend">Code </a> | <a href="https://github.com/MadisonAbilityLab/VisiMark?tab=readme-ov-file#citation">Citation </a> </h3>
   <div align="center"></div>
 <br>
 
@@ -25,9 +25,9 @@
 <p align="left">
 <strong>VisiMark</strong> is an AR interface that supports landmark perception for <a href="https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/low-vision">people with low vision</a> by providing both overviews of space structures and in-situ landmark augmentations. 
 
-In this repo, we present our <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/Study%20Protocol.pdf">study protocol</a> (including research questions, data collection, tools, procedure and experiment design), <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/Study%20Scripts%20for%20the%20Evaluation.pdf">study scripts for the evaluation</a>, <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/Consent%20Form.pdf">consent form</a> for participants, and our qualitative analysis results - <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/Themes%20and%20Codebook.pdf">our codebook with themes</a>. 
+In this repo, we present our <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudMaterials/Study%20Protocol.pdf">study protocol</a> (including research questions, data collection, tools, procedure and experiment design), <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudMaterials/Study%20Scripts%20for%20the%20Evaluation.pdf">study scripts for the evaluation</a>, <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudMaterials/Consent%20Form.pdf">consent form</a> for participants, and our qualitative analysis results - <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudMaterials/Themes%20and%20Codebook.pdf">our codebook with themes</a>. 
 
-We also provide our implementation of <a href="https://github.com/MadisonAbilityLab/VisiMark/MRFrontend">the VisiMark system</a> and <a href="https://github.com/MadisonAbilityLab/VisiMark/PhoneCustomizationApplication">the companion phone application</a> for customization.
+We also provide our implementation of <a href="https://github.com/MadisonAbilityLab/VisiMark/tree/main/MRFrontend">the VisiMark system</a> and <a href="https://github.com/MadisonAbilityLab/VisiMark/tree/main/PhoneCustomizationApplication">the companion phone application</a> for customization.
 </p>
 
 <br>
