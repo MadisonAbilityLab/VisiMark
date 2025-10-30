@@ -27,7 +27,7 @@
 
 In this repo, we present our <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudyMaterials/Study%20Protocol.pdf">study protocol</a> (including research questions, data collection, tools, procedure and experiment design), <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudyMaterials/Study%20Scripts%20for%20the%20Evaluation.pdf">study scripts for the evaluation</a>, <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudyMaterials/Consent%20Form.pdf">consent form</a> for participants, and our qualitative analysis results - <a href="https://github.com/MadisonAbilityLab/VisiMark/blob/main/StudyMaterials/Themes%20and%20Codebook.pdf">our codebook with themes</a>. 
 
-We also provide our implementation of <a href="https://github.com/MadisonAbilityLab/VisiMark/tree/main/MRFrontend">the VisiMark system</a> and <a href="https://github.com/MadisonAbilityLab/VisiMark/tree/main/PhoneCustomizationApplication">the companion phone application</a> for customization.
+We also provide our implementation of <a href="https://github.com/MadisonAbilityLab/VisiMark/tree/main/MRFrontend">the VisiMark system</a> and <a href="https://github.com/MadisonAbilityLab/VisiMark/tree/main/PhoneCustomizationApplication">the companion phone application for customization</a>.
 </p>
 
 <br>
