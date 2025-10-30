@@ -1,6 +1,6 @@
-# Augmented Reality Application (HoloLens 2)
+# VisiMark: an Augmented Reality Interface to Support Landmark Perception
 
-This folder contains the **Augmented Reality application** that augments landmarks for **people with low vision**, running on a mixed reality headset (i.e., **Microsoft HoloLens 2** for *VisiMark*).
+This folder contains the Augmented Reality application that augments landmarks for **people with low vision**, running on a mixed reality headset (i.e., Microsoft HoloLens 2 for *VisiMark*).
 
 ---
 
