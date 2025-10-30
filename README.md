@@ -13,7 +13,7 @@
     <br>
   </p>
   <h2 align="center">CHI 2025</h2>
-  <h3 align="center"><a href="https://dl.acm.org/doi/10.1145/3706598.3713847">Paper </a> | <a href="https://github.com/MadisonAbilityLab/VisiMark">Study Materials</a> | <a href="https://github.com/MadisonAbilityLab/VisiMark/tree/main/MRFrontend">Code </a> | <a href="https://github.com/MadisonAbilityLab/VisiMark?tab=readme-ov-file#citation">Citation </a> </h3>
+  <h3 align="center"><a href="https://dl.acm.org/doi/10.1145/3706598.3713847">Paper </a> | <a href="https://github.com/MadisonAbilityLab/VisiMark/tree/main/StudyMaterials">Study Materials</a> | <a href="https://github.com/MadisonAbilityLab/VisiMark/tree/main/MRFrontend">Code </a> | <a href="https://github.com/MadisonAbilityLab/VisiMark?tab=readme-ov-file#citation">Citation </a> </h3>
   <div align="center"></div>
 <br>
 
